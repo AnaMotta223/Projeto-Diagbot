@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Botão">
+    <file>logo_mensagem.png</file>
+  </qresource>
+</RCC>
